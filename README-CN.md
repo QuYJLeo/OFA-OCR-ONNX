@@ -26,6 +26,12 @@ git clone https://github.com/your-repo/OFA-OCR-ONNX.git
 cd OFA-OCR-ONNX
 ```
 
+### 下载模型文件
+
+从 Google Drive 下载 ONNX 模型文件，并将其放置在 `onxw/` 目录中：
+
+[模型文件下载](https://drive.google.com/drive/folders/1SM4d0P_M5Km3UEca61pBWGOIvNKFw5jH)
+
 ### 使用方法
 
 ```python

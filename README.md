@@ -26,6 +26,12 @@ git clone https://github.com/your-repo/OFA-OCR-ONNX.git
 cd OFA-OCR-ONNX
 ```
 
+### Download Model
+
+Download the ONNX model files from Google Drive and place them in the `onxw/` directory:
+
+[Model Files](https://drive.google.com/drive/folders/1SM4d0P_M5Km3UEca61pBWGOIvNKFw5jH)
+
 ### Usage
 
 ```python
@@ -105,7 +111,7 @@ OFA-OCR-ONNX/
 
 ### Output
 ```
-Result: ["你好世界"]
+Result: ["刘亦菲"]
 ```
 
 ## 🔧 Configuration
